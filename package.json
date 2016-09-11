@@ -1,0 +1,24 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "Node Girls Syd Express Workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syleung/express-workshop.git"
+  },
+  "author": "syleung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syleung/express-workshop/issues"
+  },
+  "homepage": "https://github.com/syleung/express-workshop#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mustache-express": "^1.2.2"
+  }
+}
